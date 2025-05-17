@@ -33,9 +33,6 @@ This project documents my completion and analysis of IBM's lab guide for QRadar 
 - Pulse Dashboard App
 - Analyst App
 
-## 📎 Report Snapshot
-> Created a real-time monitoring report template for RDP access using saved searches and flow-based data, then exported to PDF using QRadar reporting engine.
-
 ## 📘 Reference
 - [IBM QRadar SIEM LSL0232X Lab Guide](#)
 
