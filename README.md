@@ -25,6 +25,14 @@ This project documents my completion and analysis of IBM's lab guide for QRadar 
 6. Save & generate reports based on RDP activity
 7. Mark IPs as local in network hierarchy
 8. Close and document the offense
+   
+## 📹 Demo Video
+
+[![Watch on YouTube](https://img.youtube.com/vi/ZwjI13F3Wos/hqdefault.jpg)](https://youtu.be/ZwjI13F3Wos)
+
+> 🎥 **IBM QRadar SIEM Lab (Partial Demo)**  
+> This video walks through key parts of the QRadar virtual lab, including dashboard creation, AQL query execution, and RDP offense triage.  
+> 📺 [Watch on YouTube](https://youtu.be/ZwjI13F3Wos)
 
 ## 🛠️ Tools Used
 - IBM QRadar SIEM v7.4 (Lab Simulated)
